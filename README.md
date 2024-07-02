@@ -1,0 +1,1 @@
+# Convolutional-Polynomial-Neural-Networks-Whitepaper
